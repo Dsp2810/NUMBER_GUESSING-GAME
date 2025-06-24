@@ -54,7 +54,7 @@ number_guessing_game/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/Dsp2810/NUMBER_GUESSING-GAME.git
 cd number-guessing-game
 ```
 
@@ -109,7 +109,6 @@ pip install ttkbootstrap playsound
 ## 🖼️ Screenshots 
 
 ![Game Window](assets/bg.jpg)
-![Leaderboard](assets/leaderboard.png)
 ```
 
 ---
